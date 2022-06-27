@@ -1,0 +1,24 @@
+body{
+  background-color:#D3EBCD;
+}
+
+hr{
+  /*background-color: : white;
+    height=5px;
+    border-top-style: none;*/
+border-style: none;
+border-top-style: dotted;
+border-width: 5px;
+width:10%;
+border-color:grey;
+}
+h1{
+  color:#66BFBF;
+}
+h2{
+  color:#66BFBF;
+}
+/*img{
+  background-image: url(C:\Users\Latif\Desktop\uwes\personal site\uwes.png);
+  background-color: white;
+}*/
